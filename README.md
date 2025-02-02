@@ -18,4 +18,4 @@ This project implements logistic regression to predict the chance of placement f
 3. Open `predict_lr.ipynb` in Jupyter Notebook to view the project code and results.
 
 ### Results:
-The trained model achieves [1.0] on the test set, demonstrating its effectiveness in predicting student placement based on IQ and CGPA.
+The trained model achieves great Accuarcay  on the test set, demonstrating its effectiveness in predicting student placement based on IQ and CGPA.
